@@ -30,3 +30,9 @@ pip3 --version
 and Install numpy, requests, PyCuda If You have An NVIDIA GPU And OpenCL If You have An AMD GPU.
 Then Download and Extract the Latest Release, And Open the Terminal:
 python3 NH_Miner.py.
+
+# Fixing Error on Windows/Linux
+## Windows
+If you open the exe file and it closes and opens and closes again then its because you havent installed the libraries.
+## Linux
+If the output says something like "Traceback (most recent call last): File import pycuda.driver as cuda ModuleNotFoundError" then you havent installed all the dependencies.
