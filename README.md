@@ -1,6 +1,10 @@
 # NanoHash
 A Duinocoin Cryptominer for Overpowered Computers.
 
+# Specifications:
+A 3070 For NVIDIA.
+A 7600 xt For AMD
+
 # Required Libraries/Dependencies & Instructions
 First Get a Wallet from https://wallet.duinocoin.com/register.html, Get Verified and Follow the Instructions:
 ## Windows
