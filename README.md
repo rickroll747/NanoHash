@@ -12,7 +12,7 @@ First Get a Wallet from https://wallet.duinocoin.com/register.html, Get Verified
 2. Install numpy, requests, PyCuda If You have An NVIDIA GPU And OpenCL If You have An AMD GPU.
 3. Download and Extract The Latest Release and Open "NH_Miner.exe".
 
-# Linux
+## Linux
 Install Python 3.8+
 ```bash
 sudo apt install python3.8
