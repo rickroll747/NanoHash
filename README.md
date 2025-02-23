@@ -3,7 +3,7 @@ A Duinocoin Cryptominer for Overpowered Computers.
 
 # Recommended Specs:
 A 3070 For NVIDIA.
-A 7600 xt For AMD
+A 7700 xt For AMD
 
 # Disclaimer
 This Cryptominer Is For "Educational Purposes" Only. Using This Tool To Mine On The Official Duino-Coin Network Will Probably Get You **Banned!**. Use This Application At Your Own risk. Its Recommended To Use A Backup Wallet In-Case Of Getting Black-Listed. I Am Not Responsible For Any Damage Caused By This Miner To Your Account.
