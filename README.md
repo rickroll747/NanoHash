@@ -12,7 +12,7 @@ This Cryptominer Is For "Educational Purposes" Only. Using This Tool To Mine On 
 First Get a Wallet from https://wallet.duinocoin.com/register.html, Get Verified and Follow the Instructions:
 ## Windows
 1. Get Python 3.8+ And pip from https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
-2. Install numpy, siphash (also hashlib if you have Python 2.6) requests, PyCuda If You have An NVIDIA GPU And PyOpenCL If You have An AMD GPU.
+2. Install numpy, siphash24 (also hashlib if you have Python 2.4) requests, PyCuda If You have An NVIDIA GPU And PyOpenCL If You have An AMD GPU.
 3. Download and Extract The Latest Release and Open "NH_Miner.exe".
 
 ## Linux
